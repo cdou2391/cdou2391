@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=cdou2391&theme=tokyonight&showicons=true&count_private=true)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdou2391&layout=compact&theme=tokyonight&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdou2391&layout=compact&theme=tokyonight&hide=css,html&height=50px)](https://github.com/anuraghazra/github-readme-stats)
